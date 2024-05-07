@@ -1,0 +1,7 @@
+langchain
+langchain-community
+ollama
+gradio
+psycopg2
+pgvector
+langchain-postgres
